@@ -1,4 +1,4 @@
-UC1
+UC1 Create a Payroll Service
 
 mysql> CREATE DATABASE payroll_service;
 Query OK, 1 row affected (0.01 sec)
